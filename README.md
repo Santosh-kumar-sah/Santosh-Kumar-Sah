@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 First-year B.Tech CSE (AI & ML) student at **KIET Group of Institutions**, Ghaziabad (Batch 2024–2028)
 - 💼 Full Stack Developer Intern @ **Bright Path Horizon**
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
