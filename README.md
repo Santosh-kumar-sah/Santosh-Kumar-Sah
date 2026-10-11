@@ -73,8 +73,8 @@
 | 🌙 [**Vynura**](https://vynuraaa.vercel.app/) | Face-based mood tracking & wellness companion app with an anime night-sky aesthetic. React, TypeScript, Framer Motion, face-api.js, Supabase |
 | 🩸 [**LifeLink**](https://github.com/Santosh-kumar-sah/Life_Link_AI) | Real-time organ donation matching platform with a medically grounded HLA/blood-compatibility engine |
 | 🏛️ [**Bihar Sahayak (BSeva)**](https://brseva.vercel.app/) | AI-powered GovTech platform for Bihar govt scheme eligibility & career intelligence |
-| 🤖 [**TriForge**](https://github.com/Santosh-kumar-sah/REPO-NAME) | Hybrid LLM router balancing local (Ollama) vs cloud (Groq) inference for hackathons |
-| 🌐 [**Portfolio**](https://github.com/Santosh-kumar-sah/PortFolio26) | My personal developer portfolio website |
+| 🤖 [**TriForge**](https://github.com/Santosh-kumar-sah/triforge) | Hybrid LLM router balancing local (Ollama) vs cloud (Groq) inference for hackathons |
+| 🌐 [**Portfolio**](santoshportfolio-peach.vercel.app/) | My personal developer portfolio website |
 | 💰 [**ExpenseIQ**](https://github.com/Santosh-kumar-sah/REPO-NAME) | AI-integrated fintech expense tracker with shared household budgets |
 
 ## 📊 GitHub Stats
