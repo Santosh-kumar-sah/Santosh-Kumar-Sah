@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Santosh Kumar Sah 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+GovTech+%26+HealthTech+products;Exploring+RAG+%26+AI+Engineering" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Exploring+RAG+%26+AI+Engineering" alt="Typing SVG" /></a>
 </p>
 
 ```text
@@ -16,19 +16,19 @@
     1:,  ;fftti:..,;tCGGLfLLft1i;,     .,,ii1G     Degree    B.Tech CSE (AI & ML), 2024-28
     i,. :fftffft1iitfCG0GGG0080GCfi,     .ii1t     Cert      AWS Solutions Architect Assoc.
     C, ,ft1it1;::::;itLCG08808GL1ii1:    ,:iif0    LeetCode  400+ problems solved
-     .,fCLf1i; . :.::1LG000GCCLLti:,:,..,:ii:f     
-    ::L0080Lti;;;iii1fG00Gf111ii1fLLf1;tLLti;L     
-    ;fGG000GLffffLLCG8@@0Ctii;1,,:itfffLGf::i
-    ;fLCG000GCCLLCG8@@@@8Ct1tt1;:,1::1fCGi,:       Stack ----------------------------------
-   GLftfLCCCCCCfL8@@@@@@@GffLLfttttt11tLL,,        Frontend  React, TypeScript, Tailwind,
-   0CLtttttffLLCGCCG888880CfLGGCCCGGCLfC1:t                  Framer Motion, GSAP, Three.js
-    8Ltt1tt1tLG0fii;ffti1C0LCGGGGCLLLLLC;:         Backend   Node.js, Express, JWT Auth
-    8Cttti:,,;tft1tfftii;;tLCGGGCLftttLt,:         Database  MongoDB, PostgreSQL (Supabase)
-    0Lttt;,. ,;i11tfft1;ifLCCCLfffti1fi.,          Cloud     AWS, Vercel, Render
-    0Lfft1iii11t11iii;;11;;;itfft111ti;:L          Other     Socket.io, Zod, OpenRouter API, Redis
-     Cfft11tfffttfffLfi;::,,.;tt111f1:i
-     CLLftttfffftt1111ttt1i;;11iiif                Contact --------------------------------
-    CLffftfLLC00000GLfftttt111i;iL                 GitHub    Santosh-kumar-sah
+     .,fCLf1i; . :.::1LG000GCCLLti:,:,..,:ii:f     Exploring RAG & AI Engineering
+    ::L0080Lti;;;iii1fG00Gf111ii1fLLf1;tLLti;L
+    ;fGG000GLffffLLCG8@@0Ctii;1,,:itfffLGf::i      Stack ----------------------------------
+    ;fLCG000GCCLLCG8@@@@8Ct1tt1;:,1::1fCGi,:       Frontend  React, TypeScript, Tailwind,
+   GLftfLCCCCCCfL8@@@@@@@GffLLfttttt11tLL,,                  Framer Motion, GSAP, Three.js
+   0CLtttttffLLCGCCG888880CfLGGCCCGGCLfC1:t        Backend   Node.js, Express, JWT Auth
+    8Ltt1tt1tLG0fii;ffti1C0LCGGGGCLLLLLC;:         Database  MongoDB, PostgreSQL (Supabase)
+    8Cttti:,,;tft1tfftii;;tLCGGGCLftttLt,:         Cloud     AWS, Vercel, Render, Kali Linux
+    0Lttt;,. ,;i11tfft1;ifLCCCLfffti1fi.,          Other     Socket.io, Zod, OpenRouter API
+    0Lfft1iii11t11iii;;11;;;itfft111ti;:L
+     Cfft11tfffttfffLfi;::,,.;tt111f1:i            Contact --------------------------------
+     CLLftttfffftt1111ttt1i;;11iiif                GitHub    Santosh-kumar-sah
+    CLffftfLLC00000GLfftttt111i;iL                 Portfolio santoshportfolio-peach.vercel.app
   0L1f11i::itfLLCG0GGCfft1i;;::1                   Email     sureshsirf886@gmail.com
   L;1t1ii:,..,:;i1ttttt1i:,,:18@   CLLf11L         LinkedIn  /in/santosh-kumar-sah-45a9b6328
   i,1t1iiii:,     ...      .:G8CfCLif1;ift1
@@ -44,7 +44,6 @@
 - 💼 Full Stack Developer Intern @ **Bright Path Horizon**
 - ☁️ **AWS Solutions Architect Associate** certified
 - 🧩 **400+** problems solved on LeetCode
-- 🧠 Building products across **GovTech, HealthTech, and AI-powered tools**
 - 🔭 Currently exploring **Retrieval-Augmented Generation (RAG)** and AI Engineering
 - ⚡ Fun fact: I turn my code into cinematic UI reels for social media
 
@@ -72,9 +71,9 @@
 | :-- | :-- |
 | 🌙 [**Vynura**](https://vynuraaa.vercel.app/) | Face-based mood tracking & wellness companion app with an anime night-sky aesthetic. React, TypeScript, Framer Motion, face-api.js, Supabase |
 | 🩸 [**LifeLink**](https://github.com/Santosh-kumar-sah/Life_Link_AI) | Real-time organ donation matching platform with a medically grounded HLA/blood-compatibility engine |
-| 🏛️ [**Bihar Sahayak (BSeva)**](https://brseva.vercel.app/) | AI-powered GovTech platform for Bihar govt scheme eligibility & career intelligence |
-| 🤖 [**TriForge**](https://github.com/Santosh-kumar-sah/triforge) | Hybrid LLM router balancing local (Ollama) vs cloud (Groq) inference for hackathons |
-| 🌐 [**Portfolio**](https://santoshportfolio-peach.vercel.app/) | My personal developer portfolio website |
+| 🏛️ [**Bihar Sahayak (BSeva)**](https://brseva.vercel.app/) | AI-powered platform for Bihar govt scheme eligibility & career intelligence |
+| 🤖 [**TriForge**](https://github.com/Santosh-kumar-sah/REPO-NAME) | Hybrid LLM router balancing local (Ollama) vs cloud (Groq) inference for hackathons |
+| 🌐 [**Portfolio**](https://santoshportfolio-peach.vercel.app/) | My personal developer portfolio website. [Source code](https://github.com/Santosh-kumar-sah/PortFolio26) |
 | 💰 [**ExpenseIQ**](https://github.com/Santosh-kumar-sah/REPO-NAME) | AI-integrated fintech expense tracker with shared household budgets |
 
 ## 📊 GitHub Stats
@@ -91,5 +90,6 @@
 ## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh-kumar-sah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santoshportfolio-peach.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-kumar-sah-45a9b6328/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshsirf886@gmail.com)
